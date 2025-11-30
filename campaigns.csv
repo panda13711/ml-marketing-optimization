@@ -1,0 +1,13 @@
+platform,cost,campaign_id,impressions,clicks
+Google,1000,1,1290,122
+Google,2000,2,2580,206
+Google,3000,3,3870,251
+Facebook,1000,4,1510,158
+Facebook,2000,5,3020,271
+Facebook,3000,6,4530,339
+Instagram,1000,7,1430,173
+Instagram,2000,8,2860,320
+Instagram,3000,9,4290,441
+LinkedIn,1000,10,1170,92
+LinkedIn,2000,11,2340,183
+LinkedIn,3000,12,3510,273
